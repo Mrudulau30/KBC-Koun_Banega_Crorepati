@@ -1,6 +1,6 @@
 # Koun_Banega_Crorepati
 
-Here is the another mini project I have creadted in python.
+Here is the another mini project I have created in python.
 
 ## Features of the Game:
 
