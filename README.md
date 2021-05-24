@@ -1,4 +1,4 @@
-# Koun_Banega_Crorepati
+# Koun_Banega_Crorepati 😎
 
 Here is the another mini project I have created in python.
 
